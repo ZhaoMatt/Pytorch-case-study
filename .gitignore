@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 .DS_Store
 .vscode
-/basic/data
-/basic/.ipynb_checkpoints
-=======
-/.vscode
+basic/data
 /data
 /**/.ipynb_checkpoints
->>>>>>> ac252b8ab467ba60237762f4b58208ee2e22835d
+
